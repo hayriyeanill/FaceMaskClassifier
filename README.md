@@ -1,3 +1,4 @@
+# Artificial Neural Networks Class
 # FaceMaskClassifier
 
 Covid - 19 is a contagious virus that causes a newly discovered respiratory tract infection and can be passed from person to person. On
